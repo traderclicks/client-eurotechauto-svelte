@@ -33,6 +33,7 @@ interface SiteConfig {
   instagramUrl: string;
   cognitoFormId: string;
   cognitoMessageFormId: string;
+  cognitoQuestionnaireFormId: string;
   cognitoDataKey: string;
   googleReviewRating: number;
   googleReviewCount: number;
