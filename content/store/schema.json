@@ -127,6 +127,11 @@
     "type": "text",
     "placeholder": "66"
   },
+  "cognitoQuestionnaireFormId": {
+    "label": "Cognito Questionnaire Form ID",
+    "type": "text",
+    "placeholder": "60"
+  },
   "cognitoDataKey": {
     "label": "Cognito Data Key",
     "type": "text",
